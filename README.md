@@ -21,4 +21,6 @@ Features of this dataset:
 Labels:
 
     Outcome: Class variable (0 or 1)
-
+    
+Algorithms:
+Used sklearn SVM tool to train the model.
